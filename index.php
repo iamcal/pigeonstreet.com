@@ -14,6 +14,9 @@
 <b>Latest Information</b><br>
 
 <br>
+Paul Plowman emailed us with some <a href="manchester.php">photos</a> of Pigeon Street in Manchester.(29/4/2009)<br>
+<br>
+<br>
 Lollipop Animation and Alan Rogers have now created four exclusive Pigeon Street prints. They're available signed or unsigned. You can find these prints, as well as some original cells at <a href="<?=refer('http://www.lollipopanimation.com/php/gallery.php?sT=pigeon&cat=0')?>">Lollipop Animation</a> (2/8/2006)<br>
 <br>
 <br>
