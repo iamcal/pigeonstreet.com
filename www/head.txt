@@ -16,12 +16,13 @@ div {
 .outer {
 	width: 100%;
 	text-align: center;
+	margin-bottom: 50px;
 }
 
 .main {
 	width: 600;	
 	text-align: left;
-	margin: 10px auto 50px auto;
+	margin: 10px auto 20px auto;
 }
 
 .nav {

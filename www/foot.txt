@@ -1,5 +1,8 @@
 </div>
 </div>
+
+Copyright &copy; Cal Henderson, 2003-<?=date('Y')?>
+
 </div>
 
 </body>
