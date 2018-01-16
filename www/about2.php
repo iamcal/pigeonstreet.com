@@ -18,7 +18,7 @@ This site was created by Cal Henderson. Some other stuff i've done:<br>
 
 <b>Submissions</b><br>
 <br>
-If you have any information about Pigeon Street that isn't displayed here, then please <a href="mailto:cal@pigeonstreet.com">tell me</a>.
+If you have any information about Pigeon Street that isn't displayed here, then please <a href="mailto:cal@iamcal.com">tell me</a>.
 
 <?
 	include("foot.txt");
