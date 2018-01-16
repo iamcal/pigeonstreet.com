@@ -1,9 +1,5 @@
 # Installation
 
-    cd /var/www/html
-    git clone git@github.com:iamcal/pigeonstreet.com.git
-    ln -s /var/www/html/pigeonstreet.com/site.conf /etc/apache2/sites-available/pigeonstreet.com.conf
-    a2ensite pigeonstreet.com
-    service apache2 reload
+    ./install.php https://github.com/iamcal/pigeonstreet.com
 
-Note: the episodes archive is not in git - you'll need to migrate those manually
+Note: the episodes archive is now on S3: https://s3-us-west-2.amazonaws.com/iamcal-files-misc/pigeonstreet/episodes.tgz
