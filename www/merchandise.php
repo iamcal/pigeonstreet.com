@@ -9,7 +9,12 @@
 
 <b>Annuals</b><br>
 <br>
-There were two official annuals (1983 &amp; 1984). Pigeon Street also appeared in the "BBC Buttons" Annuals from 1987 to 1989.<br>
+<img src="images/annual_81.jpg" width="160" height="230" />&nbsp;
+<img src="images/annual_82.jpg" width="160" height="230" />&nbsp;
+<img src="images/annual_3.jpg" width="160" height="230" />
+<br>
+<br>
+There were at least three official annuals (1983 &amp; 1984). Pigeon Street also appeared in the "BBC Buttons" Annuals from 1987 to 1989.<br>
 <br>
 <br>
 
