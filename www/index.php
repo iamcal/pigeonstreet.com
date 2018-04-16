@@ -14,6 +14,9 @@
 <b>Latest Information</b><br>
 
 <br>
+<a href="tonystrading.co.uk">Tony</a> emailed us the <a href="merchandise.php">covers of 3 annuals</a>. (16/4/2018)<br>
+<br>
+<br>
 Paul Plowman emailed us with some <a href="manchester.php">photos</a> of Pigeon Street in Manchester.(29/4/2009)<br>
 <br>
 <br>
