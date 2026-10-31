@@ -8,7 +8,7 @@
 		return $root . $url;
 	}
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <b>Latest Information</b><br>

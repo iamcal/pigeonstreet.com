@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'about2.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>About This Site</h1>

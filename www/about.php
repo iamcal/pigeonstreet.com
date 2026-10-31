@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'about.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Pigeon Street?</h1>

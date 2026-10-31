@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'sfsdfasdf';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Pigeon Street in Manchester</h1>

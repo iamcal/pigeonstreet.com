@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'music.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Music</h1>

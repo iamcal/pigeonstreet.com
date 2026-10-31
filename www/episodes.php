@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'episodes.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Episodes</h1>

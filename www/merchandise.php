@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'merchandise.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Merchandise</h1>

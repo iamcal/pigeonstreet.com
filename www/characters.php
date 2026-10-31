@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'characters.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Characters</h1>

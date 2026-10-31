@@ -1,7 +1,7 @@
 <?php
 	$current_page = 'links.php';
 
-	include("head.txt");
+	include("head.php");
 ?>
 
 <h1>Links</h1>
