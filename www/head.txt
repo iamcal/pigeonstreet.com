@@ -64,7 +64,7 @@ h1 {
 <img src="images/logo.gif" width="600" height="112"><br>
 
 <div class="nav">
-<?
+<?php
 	$nav = array();
 
 	$nav['/'] = 'Home';

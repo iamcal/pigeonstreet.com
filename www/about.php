@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'about.php';
 
 	include("head.txt");
@@ -95,6 +95,6 @@ There are real life Pigeon Street's in <a href="http://www.streetmap.co.uk/stree
 	</tr>
 </table>
 
-<?
+<?php
 	include("foot.txt");
 ?>

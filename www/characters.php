@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'characters.php';
 
 	include("head.txt");
@@ -115,6 +115,6 @@
 	</tr>
 </table>
 
-<?
+<?php
 	include("foot.txt");
 ?>

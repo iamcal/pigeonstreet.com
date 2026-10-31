@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'merchandise.php';
 
 	include("head.txt");
@@ -47,6 +47,6 @@ What has to be the rarest item is a white label test pressing of a 2m 32s versio
 <br>
 
 
-<?
+<?php
 	include("foot.txt");
 ?>

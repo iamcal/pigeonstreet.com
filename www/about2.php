@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'about2.php';
 
 	include("head.txt");
@@ -20,6 +20,6 @@ This site was created by Cal Henderson. Some other stuff i've done:<br>
 <br>
 If you have any information about Pigeon Street that isn't displayed here, then please <a href="mailto:cal@iamcal.com">tell me</a>.
 
-<?
+<?php
 	include("foot.txt");
 ?>

@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'music.php';
 
 	include("head.txt");
@@ -162,6 +162,6 @@ The most memorable thing about Pigeon Street is the music. The theme tune is utt
 	home and dry to Bob's<br>
 </div>
 
-<?
+<?php
 	include("foot.txt");
 ?>

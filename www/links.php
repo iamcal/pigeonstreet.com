@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'links.php';
 
 	include("head.txt");
@@ -18,6 +18,6 @@ This isn't the only Pigeon Street site on the web, and most of the information h
 <li> <a href="http://www.toonhound.com/pigeon.htm">Toon Hound</a><br>
 
 
-<?
+<?php
 	include("foot.txt");
 ?>

@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'sfsdfasdf';
 
 	include("head.txt");
@@ -20,6 +20,6 @@ Paul Plowman emailed us with these photos:<br />
 <img src="images/manchester2.jpg" width="580" height="435" /><br />
 
 
-<?
+<?php
 	include("foot.txt");
 ?>

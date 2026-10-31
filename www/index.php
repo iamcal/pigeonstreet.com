@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = '/';
 
 	function refer($url){
@@ -77,6 +77,6 @@ Information about this site and how to contact us.<br>
 <br>
 
 
-<?
+<?php
 	include("foot.txt");
 ?>

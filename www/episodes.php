@@ -1,4 +1,4 @@
-<?
+<?php
 	$current_page = 'episodes.php';
 
 	include("head.txt");
@@ -174,6 +174,6 @@ Only 13 episodes were ever made, equalling about 2 hours of pigeon street action
 </div>
 
 
-<?
+<?php
 	include("foot.txt");
 ?>
